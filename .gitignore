@@ -1,8 +1,12 @@
-# Datasets ve büyük dosyalar
-dataset/
+# Ham veri ve ara dosyalar (çok büyük)
 labels/
 NEU-DET/
 runs/
+
+# Model outputs
+*.pt
+*.pth
+*.weights
 
 # Python cache
 __pycache__/
