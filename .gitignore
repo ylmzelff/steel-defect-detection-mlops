@@ -1,7 +1,9 @@
-# Ham veri ve ara dosyalar (çok büyük)
-labels/
+# Ham veri ve ara dosyalar (çok büyük)  
 NEU-DET/
 runs/
+
+# Dataset folders (processed data is included)
+# labels/ - Bu satır kaldırıldı, çünkü işlenmiş labels'lar GitHub'da olmalı
 
 # Model outputs
 *.pt
